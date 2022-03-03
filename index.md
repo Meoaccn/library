@@ -14,6 +14,7 @@
 	* [古文句式](pages/zaisheng/jushi.md)
 	* [古典詞彙](pages/zaisheng/cihui.md)
 	* [常用繁體字](pages/zaisheng/zhengtizi.md)
+	* [文學常識](pages/zaisheng/changshi.md)
 
 * 心得體會
 	* [讀書札記](pages/zhaji/zuozhuan/index.md)
