@@ -17,7 +17,9 @@
 	* [文學常識](pages/zaisheng/changshi.md)
 
 * 心得體會
-	* [讀書札記](pages/zhaji/zuozhuan/index.md)
+	* 讀書札記
+		* 《左傳》
+		* 《史記》
 
 * 工具網站
 	* [古籍館](https://gujiguan.com/)
