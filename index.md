@@ -2,7 +2,7 @@
 
 *識別代碼：2021602030*
 
-<iframe style="display: block; border: none; height: 100%; width: 100%;" src="https://ctext.org/roulette.pl?if=gb&amp;node=0&amp;x=300&amp;y=95&remap=gb" onload="adjustIframe();" frameborder="0" scrolling="auto"><a href="https://ctext.org/text.pl?node=92193&amp;if=en&remap=gb">Wenyanwen roulette</a> by <a href="https://ctext.org">CTP</a>.</iframe>
+<iframe style="display: block; border: none; height: 100%; width: 100%;" src="https://ctext.org/roulette.pl?if=gb&amp;node=0&amp;x=300&amp;y=95" onload="adjustIframe();" frameborder="0" scrolling="auto"><a href="https://ctext.org/text.pl?node=92193&amp;if=en&remap=gb">Wenyanwen roulette</a> by <a href="https://ctext.org">CTP</a>.</iframe>
 
 * 原生資源庫
 	* [古籍](pages/yuansheng/guji.md)
