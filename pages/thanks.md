@@ -1,15 +1,12 @@
 <div class="heti">
-# 借物表
-
-以下機構組織或個人為本站的建立提供了技術支援，在此感謝：
-
-* [GitHub](https://github.com/)
-
-* [MDWiki](http://dynalon.github.io/mdwiki/)
-
-* [TencentCloud](https://cloud.tencent.com/)
-
-* [Google](https://google.com/ncr)
-
-* [赫蹏 CSS](https://github.com/sivan/heti)
+  <h1>借物表</h1>
+  <p>
+    <a>以下機構組織或個人為本站的建立提供了技術支援，在此感謝：</a>
+    <ul>
+      <li><a href="https://github.com/">GitHub</a></li>
+      <li><a href="http://dynalon.github.io/mdwiki/">MDWiki</a></li>
+      <li><a href="https://cloud.tencent.com/">TencentCloud</a></li>
+      <li><a href="https://google.com/ncr">Google</a></li>
+      <li><a href="https://sivan.github.io/heti/">赫蹏 CSS</a></li>
+    </ul>
 </div>
