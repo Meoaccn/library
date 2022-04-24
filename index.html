@@ -4488,6 +4488,7 @@ function googlemapsReady() {
 </script>
 <!-- END dist/MDwiki.js -->
 <script type="text/javascript">$.md.logThreshold = $.md.loglevel.DEBUG;</script>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/heti/umd/heti.min.css">
 
 </head>
 <body>
@@ -4524,5 +4525,11 @@ function googlemapsReady() {
     })
     
     </script>
+
+<script src="//cdn.jsdelivr.net/npm/heti/umd/heti-addon.min.js"></script>
+<script>
+  const heti = new Heti('.heti');
+  heti.autoSpacing();
+</script>
 </body>
 </html>
