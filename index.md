@@ -17,7 +17,10 @@
 * 心得體會
 	* 讀書札記
 		* 《左傳》
+			* [從《左傳·莊公八年》的“及瓜而代”事件看誠信的重要性](pages/zaisheng/zhaji/zuozhuan-1.md)
 		* 《史記》
+		* 其他
+			* [從考古學中看曆史](pages/zaisheng/zhaji/others-1.md)
 
 * 工具網站
 	* [古籍館](https://gujiguan.com/)
