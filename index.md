@@ -18,6 +18,7 @@
 	* 讀書札記
 		* 《左傳》
 			* [從《左傳·莊公八年》的“及瓜而代”事件看誠信的重要性](pages/zaisheng/zhaji/zuozhuan-1.md)
+			* [史料中的情趣](pages/zaisheng/zhaji/zuozhuan-2.md)
 		* 《史記》
 			* [《史記》中的人物描寫方法淺析](pages/zaisheng/zhaji/shiji-1.md)
 		* 其他
