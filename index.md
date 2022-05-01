@@ -22,6 +22,7 @@
 			* [《史記》中的人物描寫方法淺析](pages/zaisheng/zhaji/shiji-1.md)
 		* 其他
 			* [從考古學中看曆史](pages/zaisheng/zhaji/others-1.md)
+			* [淺說唐代的“安史之亂”](pages/zaisheng/zhaji/others-2.md)
 
 * 工具網站
 	* [古籍館](https://gujiguan.com/)
