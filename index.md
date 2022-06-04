@@ -22,6 +22,7 @@
 			* [淺評晉文公](pages/zaisheng/zhaji/zuozhuan-3.md)
 		* 《史記》
 			* [《史記》中的人物描寫方法淺析](pages/zaisheng/zhaji/shiji-1.md)
+			* [從《史記·陳涉世家》淺談農民起義](pages/zaisheng/zhaji/shiji-2.md)
 		* 其他
 			* [從考古學中看曆史](pages/zaisheng/zhaji/others-1.md)
 			* [淺說唐代的“安史之亂”](pages/zaisheng/zhaji/others-2.md)
