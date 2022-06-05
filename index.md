@@ -23,9 +23,12 @@
 		* 《史記》
 			* [《史記》中的人物描寫方法淺析](pages/zaisheng/zhaji/shiji-1.md)
 			* [從《史記·陳涉世家》淺談農民起義](pages/zaisheng/zhaji/shiji-2.md)
+			* [我眼中的孔子](pages/zaisheng/zhaji/shiji-3.md)
+			* [屈子的愛國](pages/zaisheng/zhaji/shiji-4.md)
 		* 其他
 			* [從考古學中看曆史](pages/zaisheng/zhaji/others-1.md)
 			* [淺說唐代的“安史之亂”](pages/zaisheng/zhaji/others-2.md)
+			* [淺談宋代租佃關係的發展](pages/zaisheng/zhaji/others-3.md)
 
 * 工具網站
 	* [古籍館](https://gujiguan.com/)
